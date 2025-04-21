@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jxmapviewer2-1.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/swingx-core-1.6.2-AutoCompletition.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jxmapviewer2-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jxmapviewer2-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/joda-time-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/comm-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/mysql-connector-java-5.1.23-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jxmapsdemo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jxmaps-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jssc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

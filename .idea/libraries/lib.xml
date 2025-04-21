@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jxmaps-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jxmapviewer2-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mysql-connector-java-5.1.23-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jxmapsdemo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/joda-time-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/swingx-core-1.6.2-AutoCompletition.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/comm-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

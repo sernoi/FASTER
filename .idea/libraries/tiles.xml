@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tiles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/tiles/tiles.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
